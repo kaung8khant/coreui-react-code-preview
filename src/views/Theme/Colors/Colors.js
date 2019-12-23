@@ -3,7 +3,9 @@ import ReactDOM from "react-dom";
 import classNames from "classnames";
 import { Row, Col, Button } from "reactstrap";
 import { rgbToHex } from "@coreui/coreui-pro/dist/js/coreui-utilities";
-import SyntaxHighlighter from "react-syntax-highlighter";
+import { PrismLight as SyntaxHighlighter } from "react-syntax-highlighter";
+import { tomorrow } from "react-syntax-highlighter/dist/esm/styles/prism";
+import jsx from "react-syntax-highlighter/dist/esm/languages/prism/jsx";
 
 class ThemeView extends Component {
   constructor(props) {
@@ -63,7 +65,7 @@ class ThemeColor extends Component {
     );
   }
 }
-
+SyntaxHighlighter.registerLanguage("jsx", jsx);
 class Colors extends Component {
   constructor(props) {
     super(props);
@@ -83,7 +85,7 @@ class Colors extends Component {
           </Button>
         </Col>
         {this.state.code && (
-          <SyntaxHighlighter language="javascript">
+          <SyntaxHighlighter language="jsx" style={tomorrow}>
             {codeString}
           </SyntaxHighlighter>
         )}

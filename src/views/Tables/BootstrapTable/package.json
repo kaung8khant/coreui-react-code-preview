@@ -1,0 +1,6 @@
+{
+    "name": "BoostrapTable",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./BootstrapTable.js"
+}

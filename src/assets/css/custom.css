@@ -1,0 +1,1905 @@
+.rsrvtn-tbl-rw:hover {
+  background-color: #515b64 !important;
+}
+
+.react-bs-table .react-bs-container-header > table > thead > tr > th {
+  border-bottom: 0;
+}
+
+.react-bs-table-container {
+  position: relative;
+}
+
+.react-bs-table-tool-bar {
+  right: 0;
+  top: 20px;
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+}
+
+.react-bs-table-tool-bar .row .col-xs-6.col-lg-8 {
+  display: none;
+}
+
+.react-bs-table-pagination {
+  margin-top: 0;
+}
+
+.react-bs-table-sizePerPage-dropdown {
+  display: flex;
+  align-items: center;
+}
+
+.sidebar .sidebar-minimizer {
+  background: #3a4149 !important;
+}
+
+.react-bootstrap-table-page-btns-ul {
+  float: right;
+  margin-top: 0;
+  margin: 0 30px 15px -22px;
+}
+
+#pageDropDown {
+  line-height: 21px;
+}
+
+.top-header {
+  width: 100%;
+  display: flex;
+  background-color: #3a4149;
+  height: 46px;
+  margin: 0 0 19px 0;
+}
+
+.top-header .dropdown.nav-item {
+  margin-left: auto;
+  display: flex;
+}
+
+.top-header .dropdown.nav-item img {
+  max-width: 50px;
+  max-height: 30px;
+}
+.card-body {
+  padding-top: 0px;
+}
+
+.react-bs-table-container span.order.fa.fa-sort {
+  margin: 0 5px !important;
+}
+
+input.filter {
+  height: 30px;
+  margin-bottom: 3px;
+  margin-top: 1px;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+.reservation-filter {
+  position: absolute;
+  margin-top: 63px;
+  display: block !important;
+}
+.reservation-date-input {
+  z-index: 9999;
+  padding: 0.375rem 0.4rem !important;
+}
+.table-filter {
+  z-index: 9999;
+  margin-left: 15px;
+}
+
+.my-custom-class {
+  height: 35px !important;
+  height: 30px;
+}
+
+.btn-block {
+  height: 32px !important;
+  margin-top: 1px !important;
+  line-height: 12px !important;
+}
+button.expend-icon {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  margin-top: 5px !important;
+  margin-left: 10px !important;
+  background-color: #20a8d8;
+  border-color: #20a8d8;
+}
+button.expend-icon.plus {
+  margin-top: 12px !important;
+}
+button.resFinance-expend-icon {
+  position: unset !important;
+  width: 20px;
+  height: 20px;
+  margin-left: 10px !important;
+  margin-top: -3px !important;
+  background-color: #20a8d8;
+  border-color: #20a8d8;
+}
+button.expend-icon:hover,
+button.expend-icon:active {
+  background-color: #20a8d8;
+  border-color: #20a8d8;
+}
+button.expend-icon .fa {
+  position: relative;
+  left: -4px;
+  top: -5px;
+}
+button.expend-icon.plus .fa {
+  top: -3px;
+}
+button.resFinance-expend-icon .fa {
+  left: -4px !important;
+  top: -5px !important;
+}
+.filterIcon {
+  position: relative;
+  display: block;
+  padding-left: 8px;
+  padding-right: 8px;
+  line-height: 1.25;
+  color: rgb(32, 168, 216);
+  background-color: rgb(52, 59, 65);
+  border: 1px solid rgb(35, 40, 44);
+  margin-right: 20px;
+  margin-left: 3px;
+  height: 33px;
+  margin-top: 1px;
+  padding-top: 4px;
+  cursor: pointer;
+}
+
+.filterIcon i {
+  line-height: 1.3em !important;
+}
+.downloadIcon {
+  position: relative;
+  display: block;
+  padding-left: 5px;
+  line-height: 1.25;
+  color: rgb(32, 168, 216);
+  background-color: rgb(52, 59, 65);
+  border: 1px solid rgb(35, 40, 44);
+  margin-right: 2px;
+  height: 35px;
+  margin-top: 0px;
+  padding-top: 4px;
+  cursor: pointer;
+}
+.displayFlex {
+  display: flex;
+}
+
+.displayBlock {
+  display: block;
+}
+.create-icon {
+  z-index: 99999 !important;
+  width: 120px;
+  margin-top: 2px !important;
+}
+.total-records {
+  line-height: 35px !important;
+}
+.pagination {
+  margin: 0 5px !important;
+}
+.icon-style {
+  position: relative;
+  display: block;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 3px;
+  line-height: 1.25;
+  color: rgb(32, 168, 216);
+  background-color: rgb(52, 59, 65);
+  border: 1px solid rgb(35, 40, 44);
+  margin-right: 20px;
+  height: 33px;
+  margin-top: 1px;
+  padding-top: 4px;
+  cursor: pointer;
+}
+.fa-filter {
+  margin-top: 5px !important;
+}
+.csv-icon {
+  position: relative;
+  display: block;
+  margin-left: 0px;
+  line-height: 1.25;
+  color: rgb(32, 168, 216);
+  background-color: rgb(52, 59, 65);
+  border: 1px solid rgb(35, 40, 44);
+  margin-right: 2px;
+  height: 32px;
+  width: 35px;
+  margin-top: 1px;
+  padding-top: 4px;
+  cursor: pointer;
+  padding-left: 4px;
+  padding-right: 10px;
+}
+.cui-cloud-download {
+  border: 1px solid rgb(35, 40, 44);
+  width: 35px;
+  height: 35px;
+  line-height: 33px;
+  padding-left: 4px !important;
+  border-radius: 0.25rem !important;
+}
+
+.paging-left {
+  margin-right: -7% !important;
+}
+.paging-right {
+  margin-right: -5.5% !important;
+}
+.records-left {
+  margin-left: 2% !important;
+}
+.pagination-item {
+  float: left;
+  margin-right: 1.5%;
+}
+.pagination-item-last {
+  float: left;
+  margin-left: 0.5% !important;
+}
+.reservation-details-container {
+  margin-top: 2% !important;
+}
+.reservation-payment {
+  text-align: center !important;
+}
+.reservation-payment-list {
+  margin-top: 1% !important;
+}
+.tab-content .reservation-payment-lable.col-xl-3 {
+  line-height: 35px !important;
+  margin-top: 0 !important;
+}
+.reservation-payment-tab {
+  padding: 0 !important;
+  border: none;
+  border-radius: 0.25rem !important;
+}
+.no-border {
+  border: none !important;
+}
+.reservation-payment-box {
+  border: none;
+  border-radius: 0.25rem !important;
+}
+.reservation-payment-box-last {
+  margin-top: 3% !important;
+}
+.align-number {
+  text-align: right !important;
+}
+.home-currency-list {
+  line-height: 33px;
+  width: 90px !important;
+  float: left;
+}
+.reservation-payment-list-title {
+  width: 100% !important;
+  margin: 0 auto 1% 0 !important;
+}
+
+.reservation-payment-list-title i {
+  margin-right: 3% !important;
+}
+.reservation-cogs-box {
+  margin-top: 3% !important;
+}
+
+.DateInput_input {
+  padding: 4px !important;
+  font-size: 14px !important;
+  border: none !important;
+  background-color: #515b65 !important;
+  color: #e4e7ea !important;
+}
+.DateRangePickerInput__withBorder {
+  border-radius: 4px !important;
+  border: 1px solid #23282c;
+  background-color: #515b65 !important;
+}
+.DateRangePickerInput_arrow_svg {
+  fill: #fff !important;
+}
+#tripEndDate {
+  text-align: center !important;
+}
+.DateInput_input::placeholder {
+  color: #e4e7ea !important;
+  opacity: 1;
+}
+.DateInput_input:-ms-input-placeholder {
+  color: #e4e7ea !important;
+}
+.DateInput_input::-ms-input-placeholder {
+  color: #e4e7ea !important;
+}
+.DayPicker_transitionContainer {
+  margin-bottom: -20px !important;
+}
+.DateInput_fang {
+  bottom: 35px !important;
+}
+.DateInput_input_1 {
+  padding-left: 13px !important;
+}
+.affiliate-home-currency {
+  text-align: left !important;
+  line-height: 37px !important;
+}
+.affiliate-home-currency span {
+  margin-left: 10px !important;
+}
+.reservation-currency-box {
+  margin-top: 1% !important;
+  border: none !important;
+}
+.currency-edit {
+  margin-top: 2px !important;
+}
+.btn-currency {
+  height: 31px !important;
+}
+.currency-equal-icon {
+  margin-top: 7px !important;
+  margin-left: -3% !important;
+  margin-right: -3% !important;
+}
+.currency-mmk {
+  margin-left: -65px !important;
+}
+.currency-payment-box {
+  width: 49% !important;
+  float: left !important;
+  margin-right: 1% !important;
+}
+.currency-transaction-box {
+  width: 49% !important;
+  margin-left: 1% !important;
+}
+.payment-edit {
+  margin-left: 7% !important;
+}
+#reservationDate {
+  margin-left: -7px !important;
+  width: 120px;
+  text-align: center;
+}
+.search-div {
+  text-align: right !important;
+  width: 100% !important;
+}
+.filter-icon {
+  margin-right: 15px !important;
+  border-radius: 0.25rem !important;
+}
+.search-space-box {
+  width: 100px !important;
+}
+.reservation-people-button {
+  padding: 0.3rem !important;
+  line-height: 0 !important;
+}
+.reservation-people-create-button {
+  width: 100%;
+  height: 20px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+.reservation-people-create-button span {
+  font-size: 21px;
+  background-color: #3a4149;
+  padding: 0 10px;
+}
+.reservation-people-table-div {
+  padding-top: 0 !important;
+}
+.reservation-people-table-div table tr td {
+  padding: 0.3rem !important;
+}
+.reservation-people-create-new-button {
+  margin-left: -5px !important;
+  margin-top: -3px !important;
+  height: 31px !important;
+  font-size: 13px;
+  width: 85%;
+}
+.reservation-people-create-new {
+  margin-top: 9px !important;
+  height: 31px !important;
+  font-size: 13px;
+  padding: 5px !important;
+}
+.reservation-people-create-new-th {
+  padding-top: 0px !important;
+}
+.people-fbox {
+  padding: 0 0 0 15px !important;
+}
+.people-mbox {
+  padding: 0 0 0 5px !important;
+}
+.people-lbox {
+  padding: 0 15px 0 5px !important;
+}
+.reservation-people-tab-div,
+.reservation-product-tab-div,
+.reservation-payment-tab,
+.reservation-note-tab {
+  padding: 0px !important;
+}
+.tab-content-reservation {
+  position: relative;
+}
+.reservation-people-tab-div .tab-content .form-group:last-child {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+.reservation-product-tab-div .tab-content .form-group:last-child {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+.reservation-payment-tab:nth-child(3)
+  .tab-content
+  .transaction-affiliate-buttons-div {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+.reservation-payment-tab .tab-content .transaction-affiliate-buttons-div {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+.reservation-note-tab .tab-content .note-submit {
+  position: relative;
+  top: 0;
+  right: 0;
+}
+.reservation-people-tab-div.active .tab-content,
+.reservation-product-tab-div.active .tab-content,
+.reservation-payment-tab.active .tab-content,
+.reservation-note-tab.active .tab-content {
+  background-color: #343b41 !important;
+}
+.reservation-create-new-div {
+  margin-top: 16px !important;
+}
+.reservation-people-table-div .table th {
+  padding: 0.5rem !important;
+}
+.reservation-cogs-box {
+  margin-top: 3% !important;
+}
+.react-tel-input {
+  background-color: #515b65 !important;
+}
+.react-tel-input .flag-dropdown,
+.react-tel-input .MuiInputBase-formControl {
+  background-color: #515b65 !important;
+  border: none !important;
+  border: 1px solid #23282c !important;
+  border-right: none !important;
+}
+.react-tel-input .flag-dropdown {
+  width: 100% !important;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 0;
+}
+.react-tel-input .flag-dropdown.open-dropdown,
+.react-tel-input .flag-dropdown.open-dropdown .selected-flag {
+  background: #515b65 !important;
+}
+.react-tel-input .selected-flag {
+  z-index: 13;
+  position: relative;
+  height: 100%;
+  padding: 0 0 0 8px;
+  border-radius: 3px 0 0 3px;
+  width: 100% !important;
+  padding-left: 7px !important;
+}
+.react-tel-input .selected-flag .flag {
+  position: absolute;
+  top: 50%;
+  margin-top: -5px;
+}
+.react-tel-input input[type="tel"] {
+  width: 0px !important;
+  border-radius: 0 !important;
+}
+.react-tel-input .selected-flag .arrow {
+  /* position: relative;
+  top: 50%;
+  margin-top: -2px;
+  left: 60px;
+  width: 0;
+  height: 0;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  border-top: 4px solid #fff; */
+  position: relative;
+  top: -8px;
+  left: 60px;
+  width: 0;
+  height: 0;
+  padding: 0 !important;
+  border-left: 5px transparent solid;
+  border-right: 5px transparent solid;
+  border-top: 5px solid #fff;
+  border-bottom: 0px transparent;
+}
+.react-tel-input .selected-flag .arrow.up {
+  border-bottom: 5px solid #fff !important;
+  border-top: none !important;
+}
+.react-tel-input .country-list {
+  background-color: #515b65 !important;
+  width: 250px !important;
+  overflow-x: hidden;
+  margin-top: -1px !important;
+}
+.react-tel-input .country-list .country,
+.react-tel-input .country-list .country .dial-code {
+  color: #e4e7ea !important;
+}
+.react-tel-input .country-list .country.highlight,
+.react-tel-input .country-list .country.highlight .dial-code,
+.react-tel-input .country-list .country:hover,
+.react-tel-input .country-list .country:hover .dial-code {
+  color: #6b6b6b !important;
+}
+.countryCode {
+  position: absolute;
+  margin-top: -26px;
+  margin-left: 30px;
+  font-weight: 400;
+  font-size: 12px !important;
+}
+.phonePrefix {
+  width: 100px;
+}
+.reservation-people-multiselect {
+  width: 100% !important;
+}
+#react-select-2--value .Select-input {
+  width: 100% !important;
+}
+#react-select-2--value .Select-input input {
+  width: 100% !important;
+}
+.people-role {
+  margin: 0 5px !important;
+}
+.people-note {
+  line-height: 37px !important;
+}
+.filepond--drop-label {
+  justify-content: left !important;
+  background: #515b65 !important;
+  color: #e4e7ea !important;
+  border-radius: 4px !important;
+  padding-left: 5px !important;
+  font-size: 0.875rem !important;
+  min-height: 56px !important;
+}
+.filepond--panel-root {
+  border-radius: 4px !important;
+  background: #515b65 !important;
+  margin-bottom: -1rem !important;
+}
+.people-passport-photo {
+  margin-top: 7px !important;
+}
+.Select-control {
+  background: #515b65 !important;
+  border-radius: 4px !important;
+  color: #e4e7ea !important;
+  border: none !important;
+}
+
+.Select-menu-outer {
+  background: #515b65 !important;
+  border: none !important;
+  min-height: 7rem !important;
+  color: #e4e7ea !important;
+  margin-top: -5px !important;
+}
+.Select-input input {
+  color: #e4e7ea !important;
+}
+.Select.Select--single .Select-input {
+  width: 100% !important;
+  text-align: left;
+}
+.DateRangePicker,
+.DateRangePickerInput {
+  width: 100% !important;
+}
+.selling-price-row {
+  margin-top: 0.9rem !important;
+}
+.cogs-item-box {
+  min-width: 90px !important;
+  text-align: right !important;
+}
+.expend-icon {
+  cursor: pointer !important;
+  margin-left: 5px !important;
+  font-size: 12px !important;
+}
+.reservation-payment select {
+  width: 85px !important;
+}
+#paymentMethod,
+#transactionType,
+#employee,
+#affiliateCurrency {
+  width: 100% !important;
+}
+.ready-only-field {
+  opacity: 0.5 !important;
+}
+.affiliate-home-currency {
+  text-align: left !important;
+}
+.reservation-add-old-customer {
+  flex: 0 0 30% !important;
+  margin-bottom: 1rem !important;
+}
+#affiliateCurrency,
+.affiliate-fee {
+  width: 85px !important;
+}
+.affiliate-home-currency-amount {
+  line-height: 35px !important;
+  margin-left: -25px !important;
+}
+.cogs-text {
+  width: 150px !important;
+}
+.country {
+  color: #6b6b6b !important;
+}
+.country-list {
+  width: 480px !important;
+}
+.operator-table .react-bs-table-bordered {
+  border: none !important;
+}
+.operator-list {
+  cursor: pointer;
+  color: #20a8d8 !important;
+}
+.setup-box-create {
+  margin-bottom: -49px;
+  margin-left: 250px !important;
+  cursor: pointer !important;
+}
+.list-group-item {
+  cursor: pointer !important;
+}
+.card {
+  margin-bottom: 1.1rem !important;
+}
+.mr-2 {
+  font-size: 0.775rem !important;
+  color: #73818f !important;
+}
+.reservation-header-icon {
+  /* width: 10%; */
+  float: left;
+  margin-top: -44px !important;
+  margin-bottom: 4px;
+}
+.reservation-header-icon i {
+  font-size: 0.8rem !important;
+  color: #fff !important;
+}
+.reservation-header-icon i span {
+  margin-left: 5px !important;
+  margin-right: 10px !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: #fff !important;
+}
+.Select-value-label {
+  color: #e4e7ea !important;
+}
+.Select-menu-outer {
+  background: #515b65 !important;
+  z-index: 99999 !important;
+}
+.Select-menu-outer .Select-menu .Select-option {
+  background: #515b65 !important;
+  color: #e4e7ea !important;
+  text-align: left !important;
+}
+.Select-menu-outer .Select-menu .Select-option:hover {
+  background: #fff !important;
+  color: #000 !important;
+}
+.Select--single > .Select-control .Select-value,
+.Select-placeholder {
+  padding-left: 7px !important;
+}
+.Select.has-value.is-clearable.Select--single > .Select-control .Select-value {
+  padding-right: 37px !important;
+}
+.Select-placeholder {
+  text-align: left !important;
+}
+.reservation-people-table {
+  border-top: none !important;
+}
+.reservation-people-table input {
+  height: 33px !important;
+  margin-top: -1px !important;
+  width: 100% !important;
+  font-size: 10px !important;
+}
+#notes {
+  height: 35px !important;
+}
+.filepond--panel-center {
+  height: auto !important;
+}
+.filepond--drop-label {
+  height: 35px !important;
+}
+input[type="file"] {
+  display: none;
+}
+.custom-file-upload {
+  display: inline-block;
+  min-height: 35px;
+  cursor: pointer;
+}
+.passport-div {
+  width: 47%;
+  float: left;
+}
+.passport-div-last {
+  width: 52%;
+  float: left;
+  margin-left: 1%;
+}
+.react-tel-input .flag-dropdown.open-dropdown,
+.react-tel-input .flag-dropdown.open-dropdown .selected-flag {
+  background: none !important;
+}
+.common-select .Select-control {
+  border: 1px solid #23282c !important;
+}
+.submit-btn,
+.delete-btn {
+  color: #e4e7ea !important;
+  height: 35px;
+  font-size: 12px !important;
+}
+.cancel-btn {
+  color: #2f353a !important;
+  height: 35px;
+  font-size: 12px !important;
+}
+.reservation-cogs-child-lable {
+  margin-left: 20px;
+}
+.reservation-payment .common-select {
+  width: 90px !important;
+  height: 35px !important;
+}
+.reservation-payment span {
+  line-height: 35px !important;
+}
+.reservation-affiliate-fee .common-select {
+  width: 100% !important;
+}
+.DateRangePicker,
+.DateRangePickerInput {
+  padding-left: 1px !important;
+}
+.search-box {
+  width: 120px;
+}
+.res-first-div {
+  position: absolute;
+  top: 64px;
+  z-index: 555 !important;
+  left: 27px;
+}
+.res-airlinedeposit-div {
+  /* position: absolute;
+  top: 64px;
+  z-index: 555 !important;
+  left: 27px; */
+  float: left;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.res-airlinedeposit-div .react-datepicker-wrapper {
+  display: inline-block;
+}
+.res-airlinedeposit-div .submit-btn {
+  color: #e4e7ea !important;
+  height: 32px !important;
+  font-size: 12px !important;
+  margin: -5px 0 0 10px !important;
+}
+.res-airlinedeposit-div span {
+  margin: 5px 10px 0 10px;
+}
+.res-airlinedeposit-div .common-select {
+  display: inline-block;
+  top: 12px;
+  width: 20%;
+}
+.res-airlinedeposit-div .filter-dto,
+.res-airlinedeposit-div .filter-airline {
+  margin-left: 10px;
+}
+.res-second-div {
+  width: 97% !important;
+  margin: 0 auto !important;
+}
+.res-second-sub1-div {
+  width: 57% !important;
+  margin: 0 auto !important;
+}
+.res-second-sub2-div {
+  text-align: right !important;
+}
+.react-tel-input .country-list .country {
+  padding: 10px 10px !important;
+}
+.setup-employee-create-new {
+  margin-left: 0 !important;
+  margin-top: 0 !important;
+}
+.setup-people-table-th {
+  border-top: none !important;
+}
+.setup-currency span {
+  line-height: 21px !important;
+}
+.setup-currency-lable {
+  line-height: 33px !important;
+  text-align: left !important;
+}
+.setup-currency-lable-col {
+  margin-right: -6.1% !important;
+}
+.setup-payment-method input {
+  margin-left: 2%;
+  text-align: left !important;
+  cursor: default !important;
+}
+.payment-edit button {
+  margin-left: -58% !important;
+}
+.edit-people-div {
+  margin-top: 1.85%;
+}
+.reservation-date-input {
+  width: 120px !important;
+  text-align: center;
+}
+.Select-value {
+  text-align: left !important;
+}
+.reservation-transaction-input {
+  /* min-width: 90px !important; */
+}
+.transaction-home-currency {
+  float: left !important;
+  margin-right: 10px !important;
+}
+.transaction-home-currency-list {
+  margin-left: -3px !important;
+}
+.Select-clear {
+  display: none !important;
+}
+#remarks {
+  height: 105px !important;
+  margin-bottom: 6px !important;
+}
+.people-name-title {
+  width: 14% !important;
+  float: left;
+}
+.people-name-first,
+.people-name-last {
+  width: 42% !important;
+  margin-left: 0.8% !important;
+  float: left;
+}
+.people-name-title .Select-value {
+  padding-right: 0 !important;
+}
+.reservation-people-button {
+  width: 50%;
+  margin-bottom: 25px;
+}
+.popover {
+  max-width: 340px !important;
+}
+.popover-body {
+  position: relative;
+  width: 340px;
+  color: black;
+  background-color: #fee2e1;
+  border-radius: 3px;
+}
+.bs-popover-bottom > .arrow::after,
+.bs-popover-auto[x-placement^="bottom"] > .arrow::after,
+.bs-popover-top > .arrow::after,
+.bs-popover-auto[x-placement^="top"] > .arrow::after {
+  border-bottom-color: #fee2e1 !important;
+  border-top-color: #fee2e1 !important;
+}
+.popover span.arrow {
+  border: transparent !important;
+}
+.popover-body > div.row {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.popover-body .row > button {
+  width: 47px;
+}
+.popover-body span {
+  margin-right: 17px;
+  color: #813838;
+}
+.react-datepicker-popper {
+  z-index: 15;
+}
+.react-datepicker__day--highlighted,
+.react-datepicker__month-text--highlighted,
+.react-datepicker__quarter-text--highlighted {
+  background-color: lightgrey !important;
+}
+#tripStartDate {
+  width: 49% !important;
+  float: left !important;
+}
+#tripEndDate {
+  width: 49% !important;
+  float: left !important;
+  margin-left: 2% !important;
+  text-align: left !important;
+}
+.tripEndDate .react-datepicker-popper {
+  left: 49% !important;
+}
+.selling-price-div {
+  width: 71% !important;
+  margin-left: 15px !important;
+}
+.selling-price-box {
+  width: 23%;
+  float: left !important;
+  margin-right: 2%;
+}
+.selling-price-box-last {
+  min-width: 25% !important;
+  float: left !important;
+  margin-right: 0 !important;
+  text-align: right;
+}
+.selling-price-home-currency {
+  line-height: 35px !important;
+  /* width: 115px !important; */
+  margin: 0 auto !important;
+}
+.transaction-affiliate-buttons-div {
+  margin-top: 1rem !important;
+}
+.transaction-reduce-margin-top {
+  margin-top: -1rem !important;
+}
+.reservation-booking-div {
+  margin-top: 1rem !important;
+}
+.align-title {
+  text-align: center !important;
+}
+.reservation-finance-div table tr th {
+  border-top: none;
+  padding: 0.5rem !important;
+}
+.reservation-finance-div table tr td {
+  border: none;
+  padding: 0.3rem !important;
+}
+.reservation-finance-table-top {
+  border-top: 2px solid #23282c !important;
+}
+.reservation-finance-table-lower {
+  border-top: 2px solid #23282c !important;
+}
+.finance-top {
+  border-top: 2px solid #23282c !important;
+}
+.finance-right {
+  border-right: 2px solid #23282c !important;
+}
+.finance-bottom {
+  border-bottom: 2px solid #23282c !important;
+}
+.finance-left {
+  border-left: 2px solid #23282c !important;
+}
+.reservation-affiliate-fee-select .common-select,
+.reservation-affiliate-fee-select input {
+  width: 96% !important;
+  float: left !important;
+}
+.icon-info {
+  margin-left: 5px;
+  cursor: pointer !important;
+  float: left !important;
+  margin-top: 13px !important;
+  cursor: pointer !important;
+}
+.affiliate-tooltip-box {
+  min-height: 105px !important;
+  margin-top: 5px !important;
+  width: 100%;
+  background-color: #73818f !important;
+}
+.clr {
+  clear: both !important;
+}
+.affiliate-tooltip-box-first {
+  margin-top: 2px !important;
+}
+.affiliate-amount-icon {
+  float: right !important;
+}
+.finance-booking-id {
+  color: #20a8d8 !important;
+}
+.finance-grey-text {
+  color: #73818f !important;
+}
+.finance-hover-current-column {
+  background-color: #20a8d8;
+  color: #fff !important;
+}
+.finance-hover-related-column {
+  background-color: #2f353a;
+}
+.internal-menu {
+  margin-top: 5px !important;
+}
+.hide-internal-menu {
+  display: none !important;
+}
+.reservation-gross-child-lable {
+  margin-left: 40px !important;
+}
+.finance-hide-columns {
+  display: none !important;
+}
+.setup-table {
+  /* margin-top: -2rem !important; */
+}
+.setup-table table tr td button {
+  margin-top: -0.3rem !important;
+  margin-bottom: 0 !important;
+}
+.dragged {
+  width: 97% !important;
+}
+.companies-create-button {
+  width: 100% !important;
+  margin: 0 auto !important;
+}
+.reservation-affiliate-amount-div {
+  width: 90% !important;
+  float: left !important;
+}
+.reservation-affiliate-amount-icon {
+  width: 10% !important;
+  float: left !important;
+}
+.exchange-rate-span-label {
+  position: absolute;
+  font-size: 11px;
+  margin-top: -15px;
+  left: 0;
+  color: #aaa;
+}
+.react-date-picker-custom-title {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  width: 150px;
+  border-radius: 3px;
+}
+.react-date-picker-custom-title:hover {
+  background: lightgrey;
+}
+.react-datepicker__navigation:focus {
+  outline: none !important;
+}
+.react-datepicker-year-header {
+  padding-bottom: 5px;
+  margin-top: -3px;
+}
+@media screen and (max-width: 400px) {
+  .popover {
+    max-width: 300px;
+  }
+  .popover-body {
+    width: 300px;
+  }
+  .popover-body .row {
+    justify-content: center;
+  }
+  .popover-body .row > span {
+    text-align: center;
+    width: 300px;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .reservation-affiliate-amount-div {
+    width: 81% !important;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .reservation-affiliate-amount-div {
+    width: 85% !important;
+  }
+}
+@media screen and (min-width: 1500px) {
+  .reservation-affiliate-amount-div {
+    width: 85% !important;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .reservation-affiliate-amount-div {
+    width: 86% !important;
+  }
+}
+@media screen and (min-width: 1700px) {
+  .reservation-affiliate-amount-div {
+    width: 88% !important;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .reservation-affiliate-amount-div {
+    width: 89% !important;
+  }
+}
+@media screen and (min-width: 1900px) {
+  .reservation-affiliate-amount-div {
+    width: 90% !important;
+  }
+}
+.finance-align-right-column {
+  text-align: right !important;
+}
+@media screen and (min-width: 500px) {
+  .res-second-sub1-div {
+    margin-left: 25% !important;
+  }
+}
+@media screen and (min-width: 700px) {
+  .res-second-sub1-div {
+    margin-left: 20% !important;
+  }
+}
+@media screen and (min-width: 900px) {
+  .res-second-sub1-div {
+    margin-left: 16% !important;
+  }
+}
+@media screen and (min-width: 960px) {
+  .res-second-sub1-div {
+    margin-left: 20% !important;
+  }
+}
+@media screen and (min-width: 1060px) {
+  .res-second-sub1-div {
+    margin-left: 18% !important;
+  }
+}
+@media screen and (min-width: 1100px) {
+  .res-second-sub1-div {
+    margin-left: 17% !important;
+  }
+}
+@media screen and (min-width: 1140px) {
+  .res-second-sub1-div {
+    margin-left: 16% !important;
+  }
+}
+@media screen and (min-width: 1170px) {
+  .res-second-sub1-div {
+    margin-left: 15.5% !important;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .res-second-sub1-div {
+    margin-left: 15% !important;
+  }
+}
+@media screen and (min-width: 1230px) {
+  .res-second-sub1-div {
+    margin-left: 14.5% !important;
+  }
+}
+@media screen and (min-width: 1270px) {
+  .res-second-sub1-div {
+    margin-left: 14% !important;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .res-second-sub1-div {
+    margin-left: 13.5% !important;
+  }
+}
+@media screen and (min-width: 1330px) {
+  .res-second-sub1-div {
+    margin-left: 13% !important;
+  }
+}
+@media screen and (min-width: 1370px) {
+  .res-second-sub1-div {
+    margin-left: 12.5% !important;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .res-second-sub1-div {
+    margin-left: 12% !important;
+  }
+}
+@media screen and (min-width: 1430px) {
+  .res-second-sub1-div {
+    margin-left: 11.5% !important;
+  }
+}
+@media screen and (min-width: 1470px) {
+  .res-second-sub1-div {
+    margin-left: 11% !important;
+  }
+}
+@media screen and (min-width: 1500px) {
+  .res-second-sub1-div {
+    margin-left: 10.5% !important;
+  }
+}
+@media screen and (min-width: 1530px) {
+  .res-second-sub1-div {
+    margin-left: 10.5% !important;
+  }
+}
+@media screen and (min-width: 1570px) {
+  .res-second-sub1-div {
+    margin-left: 10.5% !important;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .res-second-sub1-div {
+    margin-left: 10% !important;
+  }
+}
+@media screen and (min-width: 1630px) {
+  .res-second-sub1-div {
+    margin-left: 10% !important;
+  }
+}
+@media screen and (min-width: 1670px) {
+  .res-second-sub1-div {
+    margin-left: 9.5% !important;
+  }
+}
+@media screen and (min-width: 1700px) {
+  .res-second-sub1-div {
+    margin-left: 9.2% !important;
+  }
+}
+@media screen and (min-width: 1730px) {
+  .res-second-sub1-div {
+    margin-left: 9.2% !important;
+  }
+}
+@media screen and (min-width: 1770px) {
+  .res-second-sub1-div {
+    margin-left: 9% !important;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .res-second-sub1-div {
+    margin-left: 9% !important;
+  }
+}
+@media screen and (min-width: 1830px) {
+  .res-second-sub1-div {
+    margin-left: 8.5% !important;
+  }
+}
+@media screen and (min-width: 1870px) {
+  .res-second-sub1-div {
+    margin-left: 8.5% !important;
+  }
+}
+@media screen and (min-width: 1900px) {
+  .res-second-sub1-div {
+    margin-left: 8% !important;
+  }
+}
+@media screen and (min-width: 500px) {
+  .selling-price-div {
+    width: 89% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (max-width: 550px) {
+  #reservationDate,
+  .create-icon,
+  .search-box {
+    width: 105px;
+  }
+  .create-icon {
+    margin-left: 17% !important;
+  }
+}
+@media screen and (min-width: 550px) {
+  .selling-price-div {
+    width: 89.9% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 600px) {
+  .selling-price-div {
+    width: 90.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 650px) {
+  .selling-price-div {
+    width: 91% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 700px) {
+  .selling-price-div {
+    width: 91.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 750px) {
+  .selling-price-div {
+    width: 91.8% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 800px) {
+  .selling-price-div {
+    width: 92% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 850px) {
+  .selling-price-div {
+    width: 92.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 900px) {
+  .selling-price-div {
+    width: 93% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 94% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 992px) {
+  .selling-price-div {
+    width: 92.1% !important;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .selling-price-div {
+    width: 92% !important;
+  }
+}
+@media screen and (min-width: 1070px) {
+  .selling-price-div {
+    width: 92.5% !important;
+  }
+}
+@media screen and (min-width: 1110px) {
+  .selling-price-div {
+    width: 92.5% !important;
+  }
+}
+@media screen and (min-width: 1150px) {
+  .selling-price-div {
+    width: 92.8% !important;
+  }
+}
+@media screen and (min-width: 1180px) {
+  .selling-price-div {
+    width: 93% !important;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .selling-price-div {
+    width: 68% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1240px) {
+  .selling-price-div {
+    width: 68.2% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .selling-price-div {
+    width: 69.9% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1320px) {
+  .selling-price-div {
+    width: 70.2% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1320px) {
+  .selling-price-div {
+    width: 70.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .selling-price-div {
+    width: 69.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1420px) {
+  .selling-price-div {
+    width: 70% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1520px) {
+  .selling-price-div {
+    width: 70.3% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1640px) {
+  .selling-price-div {
+    width: 70.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1700px) {
+  .selling-price-div {
+    width: 70.2% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1780px) {
+  .selling-price-div {
+    width: 70.5% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1800px) {
+  .selling-price-div {
+    width: 70.1% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+@media screen and (min-width: 1820px) {
+  .selling-price-div {
+    width: 70.3% !important;
+  }
+  .reservation-affiliate-fee-select .common-select,
+  .reservation-affiliate-fee-select input {
+    width: 95% !important;
+    float: left !important;
+  }
+}
+.reservation-finance-top-border {
+  border-bottom: 2px solid #23282c !important;
+}
+.list-menu-reservation {
+  margin-bottom: 2px;
+  border-radius: 4px;
+  border: none !important;
+}
+.list-menu-ul {
+  padding-right: 0;
+  margin-top: -1px;
+}
+.tab-content-reservation {
+  border: none;
+  margin-left: 20px !important;
+}
+.tap-sub-lable {
+  margin-top: 4px !important;
+}
+.tab-plus-icon {
+  margin-left: 5px !important;
+}
+.tab-sub-list {
+  margin-left: 10px !important;
+}
+.alert-box-div {
+  margin-left: 10px;
+}
+.alert-box-div-button {
+  margin-top: 10px;
+}
+.hide-form {
+  display: none !important;
+}
+.new-tab-lable {
+  float: left !important;
+}
+.new-tab-close-icon {
+  float: left !important;
+  margin: 1px 0 0 10px !important;
+}
+.clr {
+  clear: both !important;
+}
+.alert-delete-lable {
+  margin-right: 10px !important;
+}
+.plus-icon {
+  margin-top: 3px !important;
+  margin-left: 5px !important;
+  border-radius: 100%;
+  outline: none !important;
+  border: none !important;
+}
+.plus-icon:hover {
+  color: #f3f4f5;
+  background-color: #20a8d8;
+  border-color: #20a8d8 #20a8d8 #20a8d8;
+  border-radius: 100%;
+  outline: none !important;
+}
+.plus-icon:focus {
+  outline: none !important;
+}
+.close {
+  position: absolute !important;
+  width: 11px !important;
+  height: 11px !important;
+  opacity: 1 !important;
+  padding-top: 7px !important;
+  padding-right: 13px !important;
+  padding-bottom: 17px !important;
+  padding-left: 10px !important;
+  margin: -2px 0 0 -10px !important;
+  top: 6px !important;
+  border-radius: 50%;
+}
+.close > span {
+  position: absolute;
+  top: 0px;
+  right: 4px;
+}
+.close:hover {
+  color: #f3f4f5;
+  background-color: #20a8d8;
+  border-color: #20a8d8 #20a8d8 #20a8d8;
+  border-radius: 100%;
+  outline: none !important;
+  /* position: absolute !important;
+  width: 11px !important;
+  height: 11px !important;
+  opacity: 1 !important;
+  margin: -2px 0 0 -10px !important;
+  padding-top: 7px !important;
+  padding-right: 13px !important;
+  padding-bottom: 17px !important;
+  padding-left: 10px !important; */
+}
+/* .close:before,
+.close:after {
+  position: absolute !important;
+  content: " " !important;
+  height: 11px !important;
+  width: 3px !important;
+  background-color: #fff !important;
+}
+.close:before {
+  transform: rotate(45deg) !important;
+}
+.close:after {
+  transform: rotate(-45deg) !important;
+} */
+.arrow {
+  border: solid #fff;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+.arrow-right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+.arrow-left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+.arrow-up {
+  top: -1px !important;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+.arrow-down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+.reservation-tab-nav.active {
+  color: #f3f4f5 !important;
+}
+.reservation-tab-nav {
+  color: #a5adad !important;
+}
+.tab-content .tab-pane {
+  padding-left: 1.1rem;
+}
+.tab-pane.reservation-finance-tab {
+  padding-top: 0;
+}
+.tab-pane.active {
+  padding: 0;
+}
+.reservation-people-tab-div .tab-content,
+.reservation-product-tab-div .tab-content,
+.reservation-payment-tab .tab-content,
+.reservation-note-tab .tab-content {
+  border: 1px solid #3ba8d7 !important;
+  border-radius: 0 0 4px 4px !important;
+  opacity: 1 !important;
+}
+.nav-tabs .nav-link {
+  padding: 0.5rem 10px;
+  height: 50px !important;
+  line-height: 30px !important;
+  text-transform: capitalize;
+}
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover {
+  border: 1px solid #3ba8d7 !important;
+  border-radius: 4px 4px 0 0 !important;
+  opacity: 1 !important;
+  border-bottom: 2px solid #343b41 !important;
+  line-height: 30px !important;
+}
+.reservation-finance-tab {
+  padding-left: 0 !important;
+  border: 1px solid #3ba8d7 !important;
+  border-radius: 4px 4px 0 0 !important;
+  opacity: 1 !important;
+  margin-left: 20px !important;
+}
+.reservation-finance-tab .col-xl-12 {
+  padding-right: 0 !important;
+}
+.reservation-finance-div table tr th {
+  padding: 1rem 10px !important;
+}
+.no-bordertab-content-reservation {
+  border: none !important;
+}
+.tab-content .col-xl-3 {
+  margin-top: 7px !important;
+}
+
+.new-popover .popover-body {
+  width: 145px !important;
+  max-width: 160px !important;
+  max-height: 100px !important;
+  min-height: 35px !important;
+  background-color: #cfcfcf !important;
+}
+.new-popover .popover-body {
+  padding: 0 0.95rem !important;
+}
+.new-popover .popover-body .row {
+  line-height: 35px !important;
+  cursor: pointer !important;
+}
+.new-popover .popover-body .row:hover {
+  background-color: #20a8d8 !important;
+  cursor: pointer !important;
+}
+.new-popover .popover-body .row span {
+  color: #0d0d0d !important;
+  margin-right: 0 !important;
+  text-align: left;
+  font: Regular 13px/15px Roboto;
+  letter-spacing: 0;
+  color: #0d0d0d;
+  opacity: 1;
+}
+.new-popover .bs-popover-bottom > .arrow::before {
+  left: -5px !important;
+  top: 4px !important;
+  border-width: 0 0.3rem 0.3rem 0.3rem !important;
+  border-top-color: #3ba8d7 !important;
+  border-bottom-color: #3ba8d7 !important;
+}
+.new-popover .bs-popover-bottom > .arrow::after {
+  left: -5px !important;
+  top: 4px !important;
+  border-width: 0 0.3rem 0.3rem 0.3rem !important;
+  border-top-color: #3ba8d7 !important;
+  border-bottom-color: #3ba8d7 !important;
+}
+.reservation-people-tab-div .tab-content .form-group:last-child .row {
+  text-align: right !important;
+}
+.reservation-product-tab-div .tab-content .form-group:last-child .row {
+  text-align: right !important;
+}
+.reservation-payment-tab .tab-content .form-group:last-child .row {
+  text-align: right !important;
+}
+.reservation-note-tab .tab-content .form-group:last-child .row {
+  text-align: right !important;
+}
+.reservation-people-tab-div .tab-content .form-group:last-child button {
+  margin-right: 1px !important;
+}
+.reservation-product-tab-div .tab-content .form-group:last-child button {
+  margin-right: 0 !important;
+}
+.reservation-payment-tab .tab-content .form-group:last-child button {
+  margin-right: 1px !important;
+}
+.reservation-note-tab .tab-content .form-group:last-child button {
+  margin-right: 2px !important;
+}
+#affiliate-save-button {
+  margin-right: 5px !important;
+}
+.reservation-payment-lable {
+  text-align: left !important;
+}
+.filter__menu {
+  background: #515b65 !important;
+  color: #e4e7ea !important;
+  text-align: left !important;
+}
+.filter__option--is-focused {
+  background-color: #ebf5ff !important;
+  color: #333 !important;
+}
+.filter__control {
+  background: #515b65 !important;
+  border-radius: 4px !important;
+  color: #e4e7ea !important;
+  border: 1px solid #23282c !important;
+}
+.filter__single-value {
+  color: #e4e7ea !important;
+}
